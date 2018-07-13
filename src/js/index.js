@@ -1,3 +1,3 @@
-import '../sass/main.css';
+import '../sass/main.scss';
 
 console.log('Up and running');
